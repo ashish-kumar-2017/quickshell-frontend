@@ -28,6 +28,13 @@ Priority levels include **Urgent, High, Medium, Low,** and **No Priority**, whic
   </tr>
 </table>
 
+
+## ⚙️ Features
+- **Grouping Options**: Group tickets by status, user, or priority.
+- **Sorting Options**: Sort tickets by priority (highest to lowest) or title (alphabetical).
+- **Persistent View State**: The app retains user-selected grouping and sorting preferences, even after refreshing the page.
+
+
 ASHISH KUMAR
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
