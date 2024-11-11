@@ -1,4 +1,4 @@
-# Quicksell-Frontend-assignment
+# Kanban Board Application
 
 ## 📌 About the Project
 This project is a **React-based Kanban Board application** that interfaces with an API provided by Quicksell. The app enables users to:
