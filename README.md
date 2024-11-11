@@ -40,7 +40,6 @@ Priority levels include **Urgent, High, Medium, Low,** and **No Priority**, whic
 
 ASHISH KUMAR  
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
 
