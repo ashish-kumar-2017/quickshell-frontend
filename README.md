@@ -34,8 +34,11 @@ Priority levels include **Urgent, High, Medium, Low,** and **No Priority**, whic
 - **Sorting Options**: Sort tickets by priority (highest to lowest) or title (alphabetical).
 - **Persistent View State**: The app retains user-selected grouping and sorting preferences, even after refreshing the page.
 
+### Prerequisites
+- Node.js and npm installed on your machine.
 
-ASHISH KUMAR
+
+ASHISH KUMAR   2024
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
