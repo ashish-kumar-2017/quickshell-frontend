@@ -37,8 +37,8 @@ Priority levels include **Urgent, High, Medium, Low,** and **No Priority**, whic
 ### Prerequisites
 - Node.js and npm installed on your machine.
 
-
-ASHISH KUMAR  
+## 🧑‍💻 About the Developer
+**Ashish Kumar** 
 
 
 
